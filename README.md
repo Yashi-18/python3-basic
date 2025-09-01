@@ -1,3 +1,3 @@
 # PYTHON 3 INTRO
 
-Proyek belajar dasar pemograman
+Proyek belajar dasar pemograman python 3 
