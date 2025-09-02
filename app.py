@@ -6,3 +6,8 @@ print("BELAJAR DASAR GIT")
 #git add app.py
 # git commit -m "peeannys"
 # git push
+
+#---carara nambah app.py file---
+# git add .
+# git commit -m "peeannys"
+# git push
